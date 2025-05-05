@@ -13,10 +13,11 @@ var TEXT map[string]string = map[string]string{
 	`,
 
 	"ABOUT": `
-<b>○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 :</b> : <a href='https://go.dev'>MC</a>
-<b>○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒</b> : <a href='t.me/Leomc_bot'>MC</a>
+<b>🤖 My Name :</b> : <a href='t.me/MMW_Filter_bot'>Filter Bot ™ [MMW BOTZ](t.me/mallumovieworldmain1)</a>
+<b>○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 :</b> : <a href='https://go.dev'>Go Language </a>
+<b>○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒</b> : <a href='https://github.com/pyrogram/pyrogram'>Pyrogram</a>
 <b>○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾</b> : <a href='mongodb.org'>mongoDB</a>
-<b>○ Developer</b> : <a href='t.me/Leomc_bot'>MC</a>
+<b>○ Developer</b> : <a href='t.me/mallumovieworldmain1'>MMW BOTZ</a>
 	`,
 
 	"MF": `
