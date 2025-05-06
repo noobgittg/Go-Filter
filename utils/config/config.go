@@ -10,10 +10,12 @@ var TEXT map[string]string = map[string]string{
 <b>Hᴇʏ %v ɪᴍ %v ᴀɴ Aᴡᴇsᴏᴍᴇ Filter bot with global filter support</b>
 
 <i>I can save a custom reply for a word in any chat. Check my help menu for more details.</i>
+
+<b>○ Developer</b> : <a href='t.me/mallumovieworldmain1'>MMW BOTZ</a>
 	`,
 
 	"ABOUT": `
-<b>🤖 My Name :</b> : <a href='t.me/MMW_Filter_bot'>Filter Bot ™ [MMW BOTZ](t.me/mallumovieworldmain1)</a>
+<b>🤖 My Name :</b> : <a href='t.me/MMW_Filter_bot'>Filter Bot ™</a>
 <b>○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 :</b> : <a href='https://go.dev'>Go Language </a>
 <b>○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒</b> : <a href='https://github.com/pyrogram/pyrogram'>Pyrogram</a>
 <b>○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾</b> : <a href='mongodb.org'>mongoDB</a>
@@ -102,8 +104,6 @@ var BUTTONS map[string][][]gotgbot.InlineKeyboardButton = map[string][][]gotgbot
 		{
 			{Text: "Home", CallbackData: "edit(START)"},
 			{Text: "Stats", CallbackData: "stats"},
-		}, {
-			{Text: "Source 🔗", Url: "https://t.me/eppo_ketthumm"},
 		},
 	},
 	"STATS": {
