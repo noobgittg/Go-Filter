@@ -7,19 +7,21 @@ import "github.com/PaulSonOfLars/gotgbot/v2"
 var TEXT map[string]string = map[string]string{
 
 	"START": `
-<b>Hᴇʏ %v ɪᴍ %v ᴀɴ Aᴡᴇsᴏᴍᴇ Filter bot with global filter support</b>
+<b>Hᴇʏ %v 
+
+𝗜 𝗮𝗺 %v ᴀɴ Aᴡᴇsᴏᴍᴇ Filter bot with global filter support</b>
 
 <i>I can save a custom reply for a word in any chat. Check my help menu for more details.</i>
 
-<b>○ Developer</b> : <a href='t.me/mallumovieworldmain1'>MMW BOTZ</a>
+<b>○ Developer</b> : <a href='t.me/mallumovieworldmain1'>🄼🄼🅆 🄱🄾🅃🅉</a>
 	`,
 
 	"ABOUT": `
-<b>🤖 My Name :</b> : <a href='t.me/MMW_Filter_bot'>Filter Bot ™</a>
+<b>🤖 My Name :</b> : <a href='t.me/MMW_Filter_bot'>𝐅𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭™</a>
 <b>○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 :</b> : <a href='https://go.dev'>Go Language </a>
 <b>○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒</b> : <a href='https://github.com/pyrogram/pyrogram'>Pyrogram</a>
 <b>○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾</b> : <a href='mongodb.org'>mongoDB</a>
-<b>○ Developer</b> : <a href='t.me/mallumovieworldmain1'>MMW BOTZ</a>
+<b>○ Developer</b> : <a href='t.me/mallumovieworldmain1'>🄼🄼🅆 🄱🄾🅃🅉</a>
 	`,
 
 	"MF": `
